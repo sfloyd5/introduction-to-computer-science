@@ -1,7 +1,7 @@
 <!--- REVISED -->
 # Project 1: Animated Storytelling
 
-Students will use SNAP basics to implement an animated version of a movie, play, nursery rhyme, or other scene.
+Students will select a friend, classmate, teacher or relative for whom they will create a SNAP animated version of a movie, play, nursery rhyme, or other scene. They will interview the individual, determine their likes/dislikes, interests and favourite books and movies and based on this information, will create their animated story. Students will proceed through the Applied Design stages, loggin information as they go, and will submit this log with their animate story.
 
 ## Overview
 
@@ -10,19 +10,19 @@ Storytelling is a great way to convey culture.  Some examples of storytelling ar
 ## Details
 
 ###Behavior
-You will create a short animation in SNAP depicting a story of your choice. You may choose part of a play or nursery rhyme (See <http://www.npr.org/sections/ed/2015/07/30/427138970/the-most-popular-high-school-plays-and-musicals> and <http://en.wikipedia.org/wiki/Nursery_rhymes> for a list of possibilities.)
+You will select and interview a friend, classmate, teacher or relative (who will serve as your end-user) and then you will create an animated story for this individual. It is up to you to decide on the story plot, themes and characters. However, these things should reflect the responses from interviewing your end-user.
 
 -   Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
 -   As each line is shown, sprites should act out the story.
 -   The animation should advance on its own, but should do so at a pace that allows each action to complete and the viewer to read the line before the next line is shown and new action begins.
--   In addition, the sprites must act out the rhyme; you should not simply create a series of static backgrounds or costumes that show a stop-motion version of the story.
+-   In addition, the sprites must act out the rhyme or story; you should not simply create a series of static backgrounds or costumes that show a stop-motion version of the story.
 -   Each line must be readable and must stay shown while the corresponding action is occurring.
 -   When the story ends, there should be a way for the user to replay the entire animation from the beginning.
 -   You are free to be as creative as you like with your choice of sprites and actions.<br />
     <br />
     You may choose from the sprites provided by SNAP or create your own. (You will not be graded on your artistic skills.) You may interpret the story literally or be clever with your depiction (but don't go too far). However, all sprites, behaviors, words, and animations must be school-appropriate.<br />
     <br />
-    If you choose a particularly long story, you may not need to animate the whole thing. Please check with your teacher if you think your rhyme is long enough for this.
+    If you choose a particularly long story, you may not need to animate the whole thing.
 
 ###Implementation Details
 As mentioned above, your animation must display the text and animate each line. Action must be performed by sprites and must consist of more than simply changing costumes. You must include the following components in your animation:
