@@ -58,11 +58,11 @@ Note that multiple of these requirements may be satisfied by the same sprite (e.
 | At least one sprite hides and/or appears                                                               | 1 points      |
 | **Total**                                                                                              | **8 points**  |
 | **Applied Design Steps and Log**                                                                       |               |
-| Understanding Context components complete and thorough                                                 | 1 point       |
-| Defining components complete and thorough                                                              | 1 point       |
-| Ideating components complete and thorough                                                              | 1 point       |
-| Ideating/Prototyping components complete and thorough                                                  | 1 point       |
-| Testing components complete and thorough                                                               | 1 point       |
-| Sharing components complete and thorough                                                               | 1 point       |
+| Understanding Context components are complete and thorough                                                 | 1 point       |
+| Defining components are complete and thorough                                                              | 1 point       |
+| Ideating components are complete and thorough                                                              | 1 point       |
+| Ideating/Prototyping are components complete and thorough                                                  | 1 point       |
+| Testing components are complete and thorough                                                               | 1 point       |
+| Sharing components are complete and thorough                                                               | 1 point       |
 | **Total**                                                                                              | **6 points**  |
 | **PROJECT TOTAL**                                                                                      | **26 points** |
