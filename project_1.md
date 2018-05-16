@@ -41,6 +41,7 @@ Note that multiple of these requirements may be satisfied by the same sprite (e.
 ## Grading Scheme/Rubric
 
 | **Functional Correctness (Behavior)**                                                                  |               |
+|------------------------------------------------------------------------------------------------------------------------|
 | Animation depicts a play, nursery rhyme or other story                                                 | 2 points      |
 | Story is shown one line at a time                                                                      | 2 points      |
 | Each line is accompanied by sprites depicting the story, and all action is related to the current line | 3 points      |
@@ -64,6 +65,4 @@ Note that multiple of these requirements may be satisfied by the same sprite (e.
 | Testing components complete and thorough                                                               | 1 point       |
 | Sharing components complete and thorough                                                               | 1 point       |
 | **Total**                                                                                              | **6 points**  |
-|------------------------------------------------------------------------------------------------------------------------|
 | **PROJECT TOTAL**                                                                                      | **26 points** |
-|
