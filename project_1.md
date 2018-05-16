@@ -12,7 +12,7 @@ Storytelling is a great way to convey culture.  Some examples of storytelling ar
 ###Behavior
 You will select and interview a friend, classmate, teacher or relative (who will serve as your end-user) and then you will create an animated story for this individual. It is up to you to decide on the story plot, themes and characters. However, these things should reflect the responses from interviewing your end-user.
 
-As you interview your end-user, create the animated story using SNAP, and then test and share the program, you will proceed through the Applied Design stages. [This document](https://tealsk12.gitbooks.io/introduction-to-computer-science/content/Unit%201/CSIntroUnit1Project-AppliedDesign.docx) will lead you through the follownig stages (you should submit this to your teacher when complete):<br>
+As you interview your end-user, create the animated story using SNAP, and then test and share the program, you will proceed through the Applied Design stages. [This document](https://tealsk12.gitbooks.io/introduction-to-computer-science/BC-By-FCL/content/Unit%201/CSIntroUnit1Project-AppliedDesign.docx) will lead you through the follownig stages (you should submit this to your teacher when complete):<br>
 <br><b>Understanding Context - Defining - Ideating - Prototyping - Testing - Sharing</b><br>
 
 -   Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
