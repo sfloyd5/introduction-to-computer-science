@@ -1,7 +1,7 @@
 <!--- REVISED -->
 # Project 1: Animated Storytelling
 
-Students will select a friend, classmate, teacher or relative for whom they will create a SNAP animated version of a movie, play, nursery rhyme, or other scene. They will interview the individual, determine their likes/dislikes, interests and favourite books and movies and based on this information, will create their animated story. Students will proceed through the Applied Design stages, loggin information as they go, and will submit this log with their animate story.
+Students will select a friend, classmate, teacher or relative who will serve as the end-user for this project. Students will create an animated story for this individual using SNAP commands and sprites. They will interview the individual, determine their likes/dislikes, interests and favourite books and movies and based on this information, will create their animated story. Students will proceed through the Applied Design stages, logging information as they go, and will submit this log with their animated story.
 
 ## Overview
 
@@ -11,6 +11,9 @@ Storytelling is a great way to convey culture.  Some examples of storytelling ar
 
 ###Behavior
 You will select and interview a friend, classmate, teacher or relative (who will serve as your end-user) and then you will create an animated story for this individual. It is up to you to decide on the story plot, themes and characters. However, these things should reflect the responses from interviewing your end-user.
+
+As you interview your end-user, create the animated story using SNAP, and then test and share the program, you will proceed through the Applied Design stages. This document will lead you through the follownig stages (you should submit this to your teacher when complete):
+Understanding Context - Defining - Ideating - Prototyping - Testing - Sharing
 
 -   Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
 -   As each line is shown, sprites should act out the story.
