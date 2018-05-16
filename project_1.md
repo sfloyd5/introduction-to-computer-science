@@ -13,7 +13,7 @@ Storytelling is a great way to convey culture.  Some examples of storytelling ar
 You will select and interview a friend, classmate, teacher or relative (who will serve as your end-user) and then you will create an animated story for this individual. It is up to you to decide on the story plot, themes and characters. However, these things should reflect the responses from interviewing your end-user.
 
 As you interview your end-user, create the animated story using SNAP, and then test and share the program, you will proceed through the Applied Design stages. This document will lead you through the follownig stages (you should submit this to your teacher when complete):<br>
-<center><b>Understanding Context - Defining - Ideating - Prototyping - Testing - Sharing</b></center>
+<br><b>Understanding Context - Defining - Ideating - Prototyping - Testing - Sharing</b><br>
 
 -   Whenever the green flag is clicked, your SNAP animation should display your chosen story line by line somewhere on the stage. (This should work correctly even if the last run was interrupted and restart.)
 -   As each line is shown, sprites should act out the story.
@@ -41,7 +41,6 @@ Note that multiple of these requirements may be satisfied by the same sprite (e.
 ## Grading Scheme/Rubric
 
 | **Functional Correctness (Behavior)**                                                                  |               |
-| ------------------------------------------------------------------------------------------------------ | ------------- |
 | Animation depicts a play, nursery rhyme or other story                                                 | 2 points      |
 | Story is shown one line at a time                                                                      | 2 points      |
 | Each line is accompanied by sprites depicting the story, and all action is related to the current line | 3 points      |
@@ -57,6 +56,14 @@ Note that multiple of these requirements may be satisfied by the same sprite (e.
 | At least one sprite changes costume                                                                    | 1 points      |
 | At least one sprite hides and/or appears                                                               | 1 points      |
 | **Total**                                                                                              | **8 points**  |
-| **PROJECT TOTAL**                                                                                      | **20 points** |
-
+| **Applied Design Steps and Log**                                                                       |               |
+| Understanding Context components complete and thorough                                                 | 1 point       |
+| Defining components complete and thorough                                                              | 1 point       |
+| Ideating components complete and thorough                                                              | 1 point       |
+| Ideating/Prototyping components complete and thorough                                                  | 1 point       |
+| Testing components complete and thorough                                                               | 1 point       |
+| Sharing components complete and thorough                                                               | 1 point       |
+| **Total**                                                                                              | **6 points**  |
+|------------------------------------------------------------------------------------------------------------------------|
+| **PROJECT TOTAL**                                                                                      | **26 points** |
 |
