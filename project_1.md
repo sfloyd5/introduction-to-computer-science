@@ -1,7 +1,7 @@
 <!--- REVISED -->
 # Project 1: Animated Storytelling
 
-Students will use SNAP basics to implement an animated version of a movie, play, nursery rhyme, or other scene.
+Students will use SNAP basics to implement an animated fffversion of a movie, play, nursery rhyme, or other scene.
 
 ## Overview
 
