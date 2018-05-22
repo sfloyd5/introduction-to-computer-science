@@ -2,6 +2,19 @@
 
 In this lab, you will continue practicing processing lists, this time using lists of numbers instead of words.
 
+<table>
+<tr> 
+<td>  
+<strong>Curricular Competencies - Applied Design - Testing</strong></br><br>
+Testing is an important stage in design. So far, you’ve probably tested your programs quickly by running them and inputting one or two different types of data. When designing large software applications, programmers create formal testing plans. They indicate different inputs and expected outputs, then they run the program with the input and keep track of the actual output. If the generated output is different than expected then they make changes to the program and log the changes in a test log.</br><br>
+For the program below, a test log has been created for you. When you are done each component of the program, test it using the indicated output.
+</td>
+</tr>
+</table>
+
+
+
+
 ## Summarizing Numbers
 
 1.  Write a custom SNAP reporter block called "sum" that takes a list as an argument and reports the sum of all the numbers in the list.  You can assume that all items in the list passed as the argument will be numbers, though you should not assume anything else.
