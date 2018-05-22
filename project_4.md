@@ -34,24 +34,24 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 
 For this task you will revisit the Applied Design process in order to create a Hangman game.
 
-    1.  **Word List/Secret Word** <br/>
+1.  **Word List/Secret Word** <br/>
         You will be provided with a list of words from which the secret word should be chosen for each game.  Instructions for importing the word list:
 
-        * To import the list, set a variable "imported words" to be a list.
-        * Download and save http://www.mieliestronk.com/corncob_lowercase.txt as a text file on your computer.
-        * Click the checkbox on the "imported words" variable so that it is visible on the stage.
-        * Right click on the stage image to find the 'import...' command. Select the correct file to import.
-        * Set another variable to be a list of words by splitting the imported words by line.
+  * To import the list, set a variable "imported words" to be a list.
+  * Download and save http://www.mieliestronk.com/corncob_lowercase.txt as a text file on your computer.
+  * Click the checkbox on the "imported words" variable so that it is visible on the stage.
+  * Right click on the stage image to find the 'import...' command. Select the correct file to import.
+  * Set another variable to be a list of words by splitting the imported words by line.
 
-            ![](importingListInstructions.PNG)
+   ![](importingListInstructions.PNG)
 
-    2.  **Documentation** <br/>
+ 2.  **Documentation** <br/>
         In addition to functioning well, your program must be well-documented and readable.  This includes, but is not limited to, things such as:
-        * organizing your scripts so that they can be read and comprehended easily
-        * giving  your sprites meaningful names
-        * naming and using your variables, lists, and custom blocks well
-        * including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
-    3.  **Required Snap! Elements** <br/>
+    * organizing your scripts so that they can be read and comprehended easily
+    * giving  your sprites meaningful names
+    * naming and using your variables, lists, and custom blocks well
+    * including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
+3.  **Required Snap! Elements** <br/>
         Your program must include, at a minimum, the following Snap! code elements:
         * At least two lists, once of which must be used to track guessed letters
         * Custom blocks as appropriate, including arguments and reporters
