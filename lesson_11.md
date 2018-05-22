@@ -122,10 +122,9 @@ Searching for and fixing errors is called debugging. You will develop some great
 A variety of tools and programming components have been presented to you so far. What is so interesting about computer programming and technology is that these tools and components can be assembled together to create a wide variety of things.<br><br>
 For example, as you were learning about these tools, did you ever consider making a kaleidoscope program? That is exactly what you will do in the activity below.<br><br>
 As you continue in the course, think about how the tools and programming components that you learn about can be adapted to create a wide variety of programs and to serve a wide variety of purposes.
-
-        </td>
-    </tr>
-    </table>
+</td>
+</tr>
+</table>
   
 
 
