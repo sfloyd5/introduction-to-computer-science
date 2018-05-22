@@ -3,18 +3,7 @@
 
 In this lab, you will use costumes and movement to create simple SNAP animations.
 
-<table>
-    <tr>
-        <td>
-            Emphasize with students... <br><br>
-            <strong>Content - Translation of design specifications into source code</strong><br><br>
 
-The tasks below ask you to create programs based on certain specifications (fire breathing dragon, a sprite that runs from the dragon, etc). When you write a SNAP script you are writing something called source code. All computer programs have source code, this is the programming code that provides the instructions for the computer to execute.<br><br>
-Throughout the course, pay close attention to the design specifications and take note of how you translate these specifications into source code.
-
-</td>
-</tr>
-</table>
     
 
 
