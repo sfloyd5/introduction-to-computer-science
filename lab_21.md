@@ -56,7 +56,6 @@ You may not be able to draw a true circle, but you should get as close as you ca
   
 <strong>Big Ideas - Tools and technologies can be adapted for specific purposes.</strong></br><br>
 
-
 As you progress through the course and start to create larger and larger programs, think carefully about the components of these programs and how they can be adapted to serve other purposes. For example, code that can draw squares, rectangles, triangles and circles can be combined to draw a house, or an emoji, or a scene from a movie or book.<br><br>
 As you learn more complex commands, think about your daily life and your community around you. How can some of the programming commands be used to solve problems or to improve life?
 
