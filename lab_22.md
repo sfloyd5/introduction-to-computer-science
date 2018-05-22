@@ -2,6 +2,20 @@
 
 In this lab, you will use nested loops to draw a large brick wall using as little code as possible.
 
+<table>
+<tr>
+<td>  
+<strong>Content - Translation of design specifications into source code</strong></br><br>
+In the following activity you are asked to implement design specifications, but you are now given any code to start with. It’s your job to determine how you translate the design specifications into source code.<br><br>
+The good news is that you have completed a number of tasks that have provided you with the knowledge and skills to do this. You just have to figure out how to put them all together. Good luck!
+</td>
+</tr>
+</table>
+
+
+
+
+
 ## Part 1 - Brick by Brick
 
 1.  Write a SNAP script to draw a single 20x10 "brick" in the lower left corner of the stage when the green flag is clicked.
