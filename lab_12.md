@@ -19,8 +19,6 @@ These blocks allow the computer programmer (you!) to perform some important prog
 <li>Loop your programming code so that sections can be repeated a given number of times.</li>
   </ul>
   In SNAP these blocks are arranged in the Motion, Looks, Sound, Pen, Control, Sensing, Operators and Variables.
-<br><br>
-<strong>Content - Programming language constructs to support input/output, logic, decision structure, and loops</strong>
 </td>
 
 </tr>
