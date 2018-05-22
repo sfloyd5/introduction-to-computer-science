@@ -2,6 +2,17 @@
 
 In this lab, you will implement several custom blocks performing variants of sequential search.
 
+<table>
+<tr> 
+<td>  
+<strong>Big Ideas - Products can be designed for life cycle</strong></br><br>
+
+This lab provides you with the opportunity to create your own custom blocks to help with searching through lists. Being able to design your own custom blocks like this is an important skill when it comes to how products can be designed. Many products, and we’ll include software in this category, are altered, reused and repurposed. Custom blocks allow the programmer to alter, reuse and repurpose code efficiently and effectively.</br><br>
+With custom blocks the program is designed in “chunks. If problems arise with the program, the debugger only needs to analyze specific “chunks”. In much the same way, if improvements need to be made, the programmer can focus on specific “chunks” rather than the program in its entirety.
+</td>
+</tr>
+</table>
+
 ## 1 - You There?
 
 1.  Write your own version of the SNAP "contains" block, which takes a list and a value as arguments and reports true if the value is anywhere in the list and reports false otherwise.  You should NOT use the existing "contains" block in your implementation.
