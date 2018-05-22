@@ -80,32 +80,40 @@ As you review the requirements and test your program, you will proceed through t
 
 ## Grading Scheme/Rubric
 
-| Functional Correctness (Behavior)                                                                                               | Value     |
-| ------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Left and right arrows and space bar control hero's movement, and hero does not move through walls                               | 2 points  |
-| Hero is subject to gravity, and does not fall through platforms                                                                 | 2 points  |
-| Game consists of three screens                                                                                                  | 1 point   |
-| Game contains: <ul><li>One falling hazard (pit)</li><li>One stationary enemy</li><li>One moving enemy</li>                      | 3 points  |
+| Functional Correctness (Behavior)                                                                                            | Value     |
+| ------------------------------------------------------------------------------------------------------------------------------- | ------ |
+| Left and right arrows and space bar control hero's movement, and hero does not move through walls                            | 2 points  |
+| Hero is subject to gravity, and does not fall through platforms                                                              | 2 points  |
+| Game consists of three screens                                                                                               | 1 point   |
+| Game contains: <ul><li>One falling hazard (pit)</li><li>One stationary enemy</li><li>One moving enemy</li>                   | 3 points  |
 | Player loses a life when falling down the falling hazard or touching an enemy, and hero restarts on current screen after death. | 2 points  |
-| Player starts with three lives, and game ends when player is out of lives                                                       | 2 points  |
-| Game contains two power-ups, one of which is hidden and one of which is necessary to win the game                               | 3 points  |
-| Hero has a clear goal to win the game                                                                                           | 1 point   |
-| Gameplay is clear and intuitive, even to a brand new player                                                                     | 1 point   |
-| Game resets when the 'z' key is pressed                                                                                         | 2 points  |
-| Total                                                                                                                           | 19 points |
-| Technical Correctness (Implementation)                                                                                          | Value     |
+| Player starts with three lives, and game ends when player is out of lives                                                    | 2 points  |
+| Game contains two power-ups, one of which is hidden and one of which is necessary to win the game                            | 3 points  |
+| Hero has a clear goal to win the game                                                                                        | 1 point   |
+| Gameplay is clear and intuitive, even to a brand new player                                                                  | 1 point   |
+| Game resets when the 'z' key is pressed                                                                                      | 2 points  |
+| Total                                                                                                                        | 19 points |
+| Technical Correctness (Implementation)                                                                                       | Value     |
 | ------------------------------------------------------------------------------------------------------------------------------- | --------- |
-| Program is well-designed visually and has a consistent theme                                                                    | 2 point   |
-| Program shows good creativity and effort                                                                                        | 2 points  |
-| Program is well-documented and exhibits good style                                                                              | 2 points  |
-| Program includes at least two variables                                                                                         | 2 points  |
-| Program includes at least two messages, at least one of which is received and reacted to by multiple sprites                    | 2 points  |
-| Program includes at least one conditional statement                                                                             | 1 point   |
-| Program includes at least three custom blocks, including at least one with arguments                                            | 4 points  |
-| Custom blocks, including arguments and reporters, are used where appropriate                                                    | 2 points  |
-| Provide valuable playtest feedback to at least two other students                                                               | 2 points  |
-| Obtain and respond to playtest feedback from at least two other students                                                        | 2 points  |
-| Checkpoint 1                                                                                                                    | 2 points  |
-| Checkpoint 2                                                                                                                    | 4 points  |
-| Total                                                                                                                           | 27 points |
-| Grand Total                                                                                                                     | 46 points |
+| Program is well-designed visually and has a consistent theme                                                                 | 2 point   |
+| Program shows good creativity and effort                                                                                     | 2 points  |
+| Program is well-documented and exhibits good style                                                                           | 2 points  |
+| Program includes at least two variables                                                                                      | 2 points  |
+| Program includes at least two messages, at least one of which is received and reacted to by multiple sprites                 | 2 points  |
+| Program includes at least one conditional statement                                                                          | 1 point   |
+| Program includes at least three custom blocks, including at least one with arguments                                         | 4 points  |
+| Custom blocks, including arguments and reporters, are used where appropriate                                                 | 2 points  |
+| Provide valuable playtest feedback to at least two other students                                                            | 2 points  |
+| Obtain and respond to playtest feedback from at least two other students                                                     | 2 points  |
+| Checkpoint 1                                                                                                                 | 2 points  |
+| Checkpoint 2                                                                                                                 | 4 points  |
+| Total                                                                                                                        | 27 points |
+| Applied Design Steps and Log	                                                                                               |           |
+| Understanding Context components are complete and thorough	                                                               | 1 point   |
+| Defining components are complete and thorough	                                                                               | 1 point   |
+| Ideating components are complete and thorough	                                                                               | 1 point   |
+| Ideating/Prototyping are components complete and thorough	                                                                   | 1 point   |
+| Testing components are complete and thorough	                                                                               | 1 point   |
+| Sharing components are complete and thorough	                                                                               | 1 point   |
+| Total	                                                                                                                       | 6 points  |
+| Grand Total                                                                                                                  | 52 points |
