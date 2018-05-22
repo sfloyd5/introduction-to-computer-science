@@ -13,6 +13,24 @@ In this lab, you will write your first SNAP programs to draw some simple shapes 
 
 1.3) Add code so that pressing the space bar clears the pen marks from the stage.
 
+<table>
+
+<tr> 
+<td>
+  
+<strong>Content - Ways to transform requirements into algorithms</strong></br><br>
+An algorithm is a set of precise instructions that solve a problem or perform a given task. When you wrote a SNAP program to draw a square, you essentially developed an algorithm to create a square. Your algorithm probably involved moving a certain amount of spaces in a straight line, then turning 90 degrees.<br><br>
+In the tasks below, you will be asked to create programs, and therefore develop algorithms, for other shapes. As you do this, think carefully about how the requirements of the shape influence the algorithm you create.<br><br>
+For example, what characteristics of a pentagon influence the algorithm. The number of sides? The number of vertices? How are these characteristics apparent in your algorithm?
+
+
+
+</td>
+
+</tr>
+
+</table>
+
 ## 2. Adding more shapes
 
 2.1) Now that you've drawn a square, add code to draw the shapes in the following table. Each shape should be drawn when the number next to it is pressed on the keyboard. (For example, pressing 3 on the keyboard should draw a diamond.)
