@@ -91,7 +91,7 @@ As you review the requirements and test your program, you will proceed through t
 | Obtain and respond to playtest feedback from a parent or guardian                                                | 2 points   |
 | Checkpoint 1 (4/30)                                                                                              | 4 points   |
 | Checkpoint 2 (4/30)                                                                                              | 4 points   |
-| _Total _                                                                                                         | _19 points_  |
+| _Total _                                                                                                         | _23 points_  |
 |Applied Design Steps and Log                                                                                      |            |
 |Understanding Context components are complete and thorough                                                        | 1 point    |
 |Defining components are complete and thorough                                                                     | 1 point    |
