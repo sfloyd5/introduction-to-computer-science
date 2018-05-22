@@ -4,15 +4,16 @@ In this lab, you will explore SNAP and create a simple "self-portrait" program t
 <table>
 <tr>
  <td>
-  <b>Content</b><br>
-Programming language constructs to support input/output, logic, decision structure, and loops<br><br>
+  <strong>Content - Programming language constructs to support input/output, logic, decision structure, and loops</strong></br>
 The SNAP programming language provides you with a wide variety of programming “blocks” that can be assembled together to create some very cool programs.<br>
 These blocks allow the computer programmer (you!) to perform some important programming tasks such as:<br>
-*Receive input from a user
-*Output information to a user
-*Perform math calculations or compare things
-*Make decisions based on data or input from the user
-*Loop your programming code so that sections can be repeated a given number of times.
+ <ul>
+  <li>Receive input from a user</li>
+<li>Output information to a user</li>
+<li>Perform math calculations or compare things</li>
+<li>Make decisions based on data or input from the user</li>
+  <li>Loop your programming code so that sections can be repeated a given number of times.</li>
+ </ul>
  </td>
  </tr>
  </table>
