@@ -41,7 +41,7 @@ Quadrilaterals come in many different varieties.  Add code to your program so th
 <table>
 <tr> 
 <td>  
-<strong>Curricular Competencies – Applied Design - Defining
+  <strong>Curricular Competencies – Applied Design - Defining</strong><br><br>
 Before you begin creating larger projects it’s important that you take the time to design and plan all components. For this task, you should clearly define the problem you are trying to solve or the task you are trying to accomplish.<br><br>
 You should also clearly outline the components and the limits of your design (ie. What components (code, sprites, algorithms) do you have at your disposal that will help you? What components are you missing?)
 </td>
