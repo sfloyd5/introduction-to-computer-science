@@ -3,21 +3,13 @@
 In this lab, you will use conditional statements and variables to build a simple number guessing game.
 
 <table>
-
 <tr> 
-<td>
-  
+<td>  
 <strong>Content - Tools to aid in the development process</strong></br><br>
-
 The most important steps in creating computer programs come before you even start to code. The planning and designing stages are important because they ensure that you carefully consider the program you are going to write, and that you carefully consider the skills and components that you have at your disposal, and the ones that you might need.<br><br>
 In order to help you in the development process, you will be provided with a planning worksheet. You have used one of these before in the course. This planning worksheet is a tool that you can use to help make the development process easier. If you fill in all components of the worksheet, then you will be better prepared to start coding.
-
-
-
 </td>
-
 </tr>
-
 </table>
 
 
