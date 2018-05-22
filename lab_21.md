@@ -5,7 +5,7 @@ In this lab, you will rewrite your SNAP programs from Lab 1.3 to draw shapes usi
 <table>
 <tr> <td>
   
-<strong>Content - Ways to modify existing code to meet a particular purpose</strong></br><br>
+<strong><center>Content - Ways to modify existing code to meet a particular purpose</center></strong></br><br>
 Computer programmers rarely begin a large project with a blank screen in front of them. Often they will reuse blocks of code from previous projects, or they will alter existing code so that it serves a new function.<br><br>
 In this lab you are going to alter previously written code and you will add to it. As you do so, consider how you can reuse other code or programs that you have written in the course.
 </td>
