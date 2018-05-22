@@ -22,6 +22,22 @@ Students will be able to...
 
 ## Instructor's Notes
 
+
+<table>
+    <tr>
+        <td>
+            Emphasize with students... <br><br>
+            <strong>Content - Translation of design specifications into source code</strong><br><br>
+
+In the following activity you are asked to implement design specifications, but you are now given any code to start with. It’s your job to determine how you translate the design specifications into source code.<br><br>
+The good news is that you have completed a number of tasks that have provided you with the knowledge and skills to do this. You just have to figure out how to put them all together. Good luck!
+
+</td>
+</tr>
+</table>
+    
+
+
 1.  Review
     -   Ask to students to restate the definition of "loop"
         -   _A type of block that causes other code to run multiple times in succession_
