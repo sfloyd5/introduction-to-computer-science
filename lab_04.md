@@ -2,8 +2,9 @@
 In this lab, you will explore SNAP and create a simple "self-portrait" program to introduce yourself to your instructors and classmates.
 
 <table>
-<td>
- <tr>Content
+<tr>
+ <td>
+  Content
 Programming language constructs to support input/output, logic, decision structure, and loops
 The SNAP programming language provides you with a wide variety of programming “blocks” that can be assembled together to create some very cool programs.
 These blocks allow the computer programmer (you!) to perform some important programming tasks such as:
@@ -12,8 +13,8 @@ These blocks allow the computer programmer (you!) to perform some important prog
 *Perform math calculations or compare things
 *Make decisions based on data or input from the user
 *Loop your programming code so that sections can be repeated a given number of times.
- </tr>
  </td>
+ </tr>
  </table>
 
 
