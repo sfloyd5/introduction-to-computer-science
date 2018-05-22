@@ -61,16 +61,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
             -   Ensure that all students are able to create an account and save their work, as describe in the preamble of the lab
             -   Allow students a few minutes to develop their own answers to each of the questions and activities before discussing as a group
 
-<table>
-    <tr>
-        <td>
-            Emphasize with students... <br><br>
-            <strong>Content - Strategies to predict effects of code modification</strong><br><br>
-You should get used to using the reporters and watchers. These reporters and watchers can act as tools to aid in the development process. They allow you to see the values of different components of the program, which is very valuable when it comes to searching for and fixing errors in your programs. <br><br>
-Searching for and fixing errors is called debugging. You will develop some great debugging skills as this course progresses and you learn about more tools, like reporters and watchers, that can help you in this area.
-        </td>
-    </tr>
-    </table>
+
 
 
 
