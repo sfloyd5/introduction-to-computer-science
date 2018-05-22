@@ -3,6 +3,19 @@
 
 In this lab, you will use Boolean operators to determine what sort of triangle a user is describing.
 
+<table>
+<tr> 
+<td>  
+<strong>Big Ideas - Personal design interests require the evaluation and refinement of skills</strong></br><br>
+As you start to create more interesting programs, and as you eventually start to create programs of your own design, you will have to start evaluating and refining your skills. In this lab you are asked to use Boolean operators in your program as a way of adding logic and decision making to your software. Think carefully about whether or not you know enough about Boolean operators and how to implement them in SNAP. If you don’t review the lesson on Boolean operators or ask for help from your teacher or classmate.<br><br>
+It’s important to always evaluate and refine the skills needed in your projects so that you can create some great stuff!
+</td>
+</tr>
+</table>
+
+
+
+
 ## Section 1 Is that even possible!?
 
 1.  Write a SNAP program that asks the user for the lengths of all three sides of a triangle.  Store each length in a variable.  Then say the perimeter of the triangle with those three side lengths
