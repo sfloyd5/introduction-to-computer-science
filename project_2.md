@@ -1,7 +1,7 @@
 <!--- REVISED -->
-# Project 2: Pong
+# Project 2: Boingy Bouncer
 
-Students will implement a well-written and engineered version of the classic arcade game Pong.
+Students will implement a well-written and engineered version of the classic arcade game Pong, or a game of their own choice that includes an animated projectile, a "paddle" and boundaries.
 
 ## Overview
 
@@ -24,7 +24,26 @@ In 1972, when video games were still very new and relatively unknown, a new game
     3.  Final due date: A point is scored when the ball hits the edge on the opponent's side of the field; the game ends when one player reaches five points; players can start a new game after the game ends
 
 ## Planning Worksheet
-Part of the design process is planning.  The "Pong Planning Worksheet" is an example of how to plan.  Fill out the planning worksheet first before writing any code.
+For this task you will revisit the Applied Design process in order to create a program similar to Pong.
+
+Your project should involve a projectile (a ball, a bird, a boomerang, a character, a cupcake, etc) that will collide with an object (a paddle, a racket, another character, etc) and will allow the user to score points.
+
+You can recreate the pong game if you wish (perhaps changing some sprites or rules), or you can create some type of game that uses similar rules and logic, but with different or additional features.
+
+If you chose to create something different, just ensure that your program includes the following requirements:
+-Player can control an object (a paddle, a racket, another character, etc) with keys 
+-The projectile begins in a certain location at the start of the game and after each “point”
+-The projectile has consistent action in how it rebounds off of edges of screen
+-he projectile’s speed is altered at some point in the game
+-Points are scored in an effective and logical manner
+-Game has an ending based on specific rules of reaching a given score
+-Winning and losing players are indicated at the end of the game
+-Players can begin a new game
+
+Before you begin your project, you will select an end-user for your game (friend, classmate, teacher, relative, etc) and you will interview this end-user in order to learn about their interests. You will then use their interests to shape the design and implementation of your game. This end-user will later test your program and provide feedback before you complete your final version.
+
+As you interview your end-user, create the Boingy Bouncer using SNAP, and then test and share the program, you will proceed through the Applied Design stages. The Applied Design Stages document (CSIntroUnit2Project-AppliedDesign.docx) will lead you through the following stages (you should submit this to your teacher when complete):
+**Understanding Context - Defining - Ideating - Prototyping - Testing – Sharing**
 
 ## Grading Scheme/Rubric
 
@@ -48,4 +67,12 @@ Part of the design process is planning.  The "Pong Planning Worksheet" is an exa
 | Checkpoint 2                                                                         | 4 points  |
 | Total                                                                                | 15 points |
 | ------------------------------------------------------------------------------------ | --------- |
-| Grand Total                                                                          | 34 points |
+|Applied Design Steps and Log	                                                       |           |
+|Understanding Context components are complete and thorough	                           | 1 point   |
+|Defining components are complete and thorough	                                       | 1 point   |
+|Ideating components are complete and thorough	                                       | 1 point   |
+|Ideating/Prototyping are components complete and thorough	                           | 3 points  |
+|Testing components are complete and thorough	                                       | 1 point   |
+|Sharing components are complete and thorough	                                       | 1 point   |
+|Total                                                                                 | 8 points  |
+| Grand Total                                                                          | 42 points |
