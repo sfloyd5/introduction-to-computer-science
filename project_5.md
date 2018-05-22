@@ -21,16 +21,19 @@ Originally released in 1978, Space Invaders was one of the modern video games an
     Each time the player destroys an invader, points should be earned.  Scoring should start at 100 points per invader in the first level, and increase by 50 points per invader in each successive level.  So, for example, each invader in level 2 is worth 150 points, each in level 3 is worth 200 points, at so on.  The player’s score should be displayed on the stage throughout the game and be featured on the “Game Over” screen.
 
 2. Implementation Details
-    1. **Documentation and Style** <br />
+
+For this task you will revisit the Applied Design process in order to create a Platform Game.
+
+  1. **Documentation and Style** <br />
     As with all previous projects, your program must be well-written, well-documented, and readable.  This includes, but is not limited to:
         * organizing your scripts so that they can be read and comprehended easily
         * giving your sprites meaningful names
         * naming and using your variables, lists, and custom blocks well
         * including comments to describe the structure of your program and any particularly complex or unintuitive pieces of code
         * separating master sprites from clones, and cleaning up clones that are finished (see below)
-    2. **Cloning** <br />
+  2. **Cloning** <br />
     The invaders and the projectiles should be implemented using prototyping.  A single master sprite should be implemented for each type and clones should be created each time a new instance of the sprite is needed.  The master sprites should be hidden throughout the program and should not take part in gameplay.
-    3. **Required SNAP Elements** <br />
+  3. **Required SNAP Elements** <br />
     Your program must include the following SNAP elements:
         * At least three variables
         * At least two custom blocks, at least one of which must take an argument
@@ -39,6 +42,12 @@ Originally released in 1978, Space Invaders was one of the modern video games an
     1. Have the player and a single invader moving correctly
     2. Be able to clone invaders and have the entire group move correctly
     3. Be able to fire projectiles from both the player (when the space bar is pressed) and the invaders (randomly)
+    
+Before you begin your project, you will carefully review the program requirements in order to understand the context of the game. You will then use the requirements to shape the design and implementation of your game. 
+
+As you review the requirements and test your program, you will proceed through the Applied Design stages. The Applied Design Stages document (CSIntroUnit5Project-AppliedDesign.docx) will lead you through the following stages (you should submit this to your teacher when complete):
+
+**Understanding Context - Defining - Ideating - Prototyping - Testing – Sharing**
 
 ## Grading Scheme/Rubric
 |Functional Correctness (Behavior)| |
@@ -69,6 +78,14 @@ Originally released in 1978, Space Invaders was one of the modern video games an
 |Checkpoint 2 | 5 points |
 |Checkpoint 3 | 5 points |
 |_Total_	|_30 points_|
-|**_Total_**|**_50 points_**|
+|**Applied Design Steps and Log**  |        |
+|Understanding Context components are complete and thorough	|1 point|
+|Defining components are complete and thorough	|1 point|
+|Ideating components are complete and thorough	|1 point|
+|Ideating/Prototyping are components complete and thorough	|1 points|
+|Testing components are complete and thorough	|1 point|
+|Sharing components are complete and thorough	|1 point|
+|Total	|6 points|
+|**_Total_**|**_56 points_**|
 
 
