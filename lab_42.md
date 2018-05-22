@@ -35,6 +35,16 @@ In this lab, you will create a simple sentence generator using lists.  (Adapted 
 
 3.  BONUS: Modify your code so that a verb phrase can sometimes leave out the prepositional phrase.  Your code should randomly decide to include the prepositional phrase or not.
 
+<table>
+<tr> 
+<td>  
+<strong>Content - Programming language constructs to support input/output, logic, decision structure, and loops</strong></br><br>
+This program involves quite a bit of organization and computer programming knowledge. You are probably combining user input, variables, random numbers, decision structures, loops and screen output.<br><br>
+These programming language constructs include the knowledge and skills needed to get programs to run. It’s amazing how they can be used to create such different programs. This program generates sentences, but using the same constructs you could create mathematics software, or video games, or scheduling software. When it comes to applying these constructs to create cool programs, the possibilities are endless!
+</td>
+</tr>
+</table>
+
 ## 4 - Changing Our Vocabulary
 
 1.  Write a script so that when the 'n' key is pressed, the user is prompted for a new noun and that noun is added to list of nouns.  After that point, the new noun entered by the user should be able to appear in sentences.
