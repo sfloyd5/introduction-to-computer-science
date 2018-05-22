@@ -32,6 +32,8 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 
 2.  **Implementation Details**
 
+For this task you will revisit the Applied Design process in order to create a Hangman game.
+
     1.  **Word List/Secret Word** <br/>
         You will be provided with a list of words from which the secret word should be chosen for each game.  Instructions for importing the word list:
 
@@ -53,6 +55,12 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
         Your program must include, at a minimum, the following Snap! code elements:
         * At least two lists, once of which must be used to track guessed letters
         * Custom blocks as appropriate, including arguments and reporters
+
+Before you begin your project, you will carefully review the program requirements in order to understand the context of the game. You will then use the requirements to shape the design and implementation of your game. 
+
+As you review the requirements and test your program, you will proceed through the Applied Design stages. The Applied Design Stages document (CSIntroUnit4Project-AppliedDesign.docx) will lead you through the following stages (you should submit this to your teacher when complete):
+
+**Understanding Context - Defining - Ideating - Prototyping - Testing - Sharing**
 
 3.  **Required Checkpoints**
 
@@ -83,6 +91,14 @@ Hangman is a popular word game in which one player (the "chooser") chooses a sec
 | Obtain and respond to playtest feedback from a parent or guardian                                                | 2 points   |
 | Checkpoint 1 (4/30)                                                                                              | 4 points   |
 | Checkpoint 2 (4/30)                                                                                              | 4 points   |
-| _Total _                                                                                                           | _19 points_  |
-| _**Total **_                                                                                                           | _**40 points**_  |
+| _Total _                                                                                                         | _19 points_  |
+|Applied Design Steps and Log                                                                                      |            |
+|Understanding Context components are complete and thorough                                                        | 1 point    |
+|Defining components are complete and thorough                                                                     | 1 point    |
+|Ideating components are complete and thorough                                                                     | 1 point    |
+|Ideating/Prototyping are components complete and thorough                                                         | 1 point    |
+|Testing components are complete and thorough                                                                      | 1 point    |
+|Sharing components are complete and thorough                                                                      | 1 point    |
+|Total                                                                                                             | 6 points   |
+| _**Total **_                                                                                                           | _**46 points**_  |
 
