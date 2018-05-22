@@ -12,14 +12,12 @@ This project will be significantly larger in scope than any of your previous ass
 
    The phases of the project will be:<br />
 
-   * _Brainstorming_ - coming up with as many possible project ideas as you can
-   * _Pitching_ - choosing a few ideas and developing a short description of what the project will entail
-   * _Review_ - getting feedback from your peers and instructors on your pitches and choosing one
-   * _Scenario Definition_ - listing out the features the project will need and what they will look like
-   * _Wireframing_ - drawing simple sketches of what the various "screens" in your program will look like
-   * _Specification_ - fleshing out all the specifics of how the project will work
-   * _Scheduling_ - listing the programming tasks necessary to complete your project and estimating how long each will take
-   * _Development_ - writing the code for your project by following the spec and schedule created in the previous steps
+   * _Understanding Context_ - User centered research to understand design opportunities.
+   * _Defining_ - Choosing a design opportunity and point of view, making inferences about premises and boundaries to define the design, listing out the features the project will need and what they will look like.
+   * _Ideating_ - Generate and prioritize ideas for prototyping and designing with the end-user in mind.
+   * _Prototyping_ - drawing simple sketches of what the various "screens" in your program will look like, fleshing out all the specifics of how the project will work, writing code for the project and using effective strategies.
+   * _Testing_ - Obtaining and identifying feedback through appropriate testing, iterating design ideas and selecting effective steps and components.
+   * _Sharing_ - Share with potential end-users, critically assess the reception of ideas and completed work, identify possible next steps to influence futuer design.
 
 2. **Progress Tracking** <br />
 In phase vi, you will complete a [Final Project Plan Organizer](Final Project Plan Organizer.docx) and in phase vii you will complete a [Final Project Development Plan](Final Project Development Plan.docx).  These documents will be your guides in the development phase and will help you stay on track and aware of your progress.  Throughout the development phase of the project, you will be expected to keep your spec and plan up-to-date and make adjustments as you get ahead or behind, as requirements change, or as tasks or features get reprioritized.  At the end of each coding day, your spec and plan documents should be updated to reflect the current state of your project, and you will check in with an instructor at least once a week to make sure things are on track.  
@@ -70,4 +68,13 @@ At least three times during the project period, and at least once each week, you
 |Checkpoint 2 | 4 points |
 |Checkpoint 3 | 4 points |
 |_Total_	|_40 points_|
-|**_Total_**|**_80 points_**|
+|Applied Design Steps and Log	
+|Understanding Context components are complete and thorough	|2 points|
+|Defining components are complete and thorough	|2 points|
+|Ideating components are complete and thorough	|2 points|
+|Ideating/Prototyping are components complete and thorough	|2 points|
+|Testing components are complete and thorough	|2 points|
+|Sharing components are complete and thorough	|2 points|
+|Total	|12 points|
+|**_Total_**|**_92 points_**|
+
