@@ -43,6 +43,7 @@ If you chose to create something different, just ensure that your program includ
 Before you begin your project, you will select an end-user for your game (friend, classmate, teacher, relative, etc) and you will interview this end-user in order to learn about their interests. You will then use their interests to shape the design and implementation of your game. This end-user will later test your program and provide feedback before you complete your final version.
 
 As you interview your end-user, create the Boingy Bouncer using SNAP, and then test and share the program, you will proceed through the Applied Design stages. The Applied Design Stages document (CSIntroUnit2Project-AppliedDesign.docx) will lead you through the following stages (you should submit this to your teacher when complete):
+
 **Understanding Context - Defining - Ideating - Prototyping - Testing – Sharing**
 
 ## Grading Scheme/Rubric
