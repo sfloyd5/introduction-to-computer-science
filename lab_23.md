@@ -20,7 +20,7 @@ You will now expand your program from above so that instead of just deciding if 
 | 6                 | Hexagon        |
 | any other number  | Unknown        |
 
-1.  Fill out a [Planning Worksheet] (https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above program.  Make sure you consider all aspects of the program carefully.
+1.  Fill out a [Planning Worksheet] (https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet%202.3.docx) for the above program.  Make sure you consider all aspects of the program carefully.
 
 2.  Write the program.  Be sure that your program works correctly in all cases.
 
@@ -51,7 +51,7 @@ You should also clearly outline the components and the limits of your design (ie
 
 
 
-1.  Fill out a [Planning Worksheet] (https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet.docx) for the above program.  Make sure you consider all aspects of the program carefully.
+1.  Fill out a [Planning Worksheet] (https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet%202.3.docx) for the above program.  Make sure you consider all aspects of the program carefully.
 
 2.  Write the program.  Be sure that your program works correctly in all cases.
 
