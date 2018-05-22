@@ -3,6 +3,30 @@
 
 In this lab, you will explore the functionality of some common blocks and where they are located in the palette.
 
+<table>
+
+<tr> 
+<td>
+  
+<strong>Content - Programming language constructs to support input/output, logic, decision structure, and loops</strong></br><br>
+The SNAP programming language provides you with a wide variety of programming “blocks” that can be assembled together to create some very cool programs.<br><br>
+These blocks allow the computer programmer (you!) to perform some important programming tasks such as:
+<ul>
+  <li>Receive input from a user</li>
+<li>Output information to a user</li>
+<li>Perform math calculations or compare things</li>
+<li>Make decisions based on data or input from the user</li>
+<li>Loop your programming code so that sections can be repeated a given number of times.</li>
+  </ul>
+  In SNAP these blocks are arranged in the Motion, Looks, Sound, Pen, Control, Sensing, Operators and Variables.
+<br><br>
+<strong>Content - Programming language constructs to support input/output, logic, decision structure, and loops</strong>
+</td>
+
+</tr>
+
+</table>
+
 ## 1. Locating common blocks
 
 **1.1) Fill in the name of the category to which each block belongs in the chart below. The first one is already filled in for example.**
