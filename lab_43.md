@@ -13,6 +13,21 @@ In this lab, you will create a list of names and then look through the list pull
 
 4.  BONUS: Modify your code so that instead of using a pre-determined list of names, the user can enter the names to be included in the list one at a time.  You'll need to decide how to determine when the user has entered all the names.
 
+<table>
+<tr> 
+<td>  
+<strong>Content - Structures within existing code</strong></br><br>
+As you’ve done a number of times in this course, you’ll be altering the structures within your existing code in order to create new capabilities for the program. This is an important way to program. Rarely do programmers write code for their entire program and then click run.</br><br>
+Instead they design in small stages, accomplishing smaller subtasks and building upon these structures in order to add complexity. So as you create more programs and as you design your own, begin by creating simpler versions  and then add layers of complexity as you get each stage to run.
+</td>
+</tr>
+</table>
+
+
+
+
+
+
 ## 2 - I'm Looking For...
 
 1.  Write a script that says every other name in a list one at a time when the space bar is pressed.  Use the same list of names from above.  For example, if the list is [Eric, Sally, Michelle, John, Sam, Caleb], the names Eric, Michelle, and Sam would be said.
