@@ -41,6 +41,8 @@ Platform games are among the most widely recognized types of video games.  Compo
 
 ## Implementation Details
 
+For this task you will revisit the Applied Design process in order to create a Platform Game.
+
 1.  **Design and Creativity**
     <br/>
     Your program should be well-designed and have a unifying theme, characteristic, or style.  This can be a particular style of artwork, common colors, and/or related types of characters.  In addition, you should show some effort and creativity in your design.  Do not simply recreate an existing game or use only ideas put forth in this spec.  Come up with some original concepts for characters, backgrounds, power-ups, etc. and utilize them in your game.  If you make us say "Wow!" it may even be worth some extra credit.  Using copyrighted assets (including characters or artwork from an existing game), even with modification, is not allowed.  
@@ -68,6 +70,13 @@ Platform games are among the most widely recognized types of video games.  Compo
     1.  Monday, October 27: Screens should be designed; the hero should be able to move and jump; gravity should work; reset button should be functional
     2.  Monday, November 3: Hazards and enemies should be present; death should work properly.
     3.  Monday, November 10 (final due date): Lives, power-ups, and victory should be implemented; all other required program components must work
+
+Before you begin your project, you will carefully review the program requirements in order to understand the context of the game. You will then use the requirements to shape the design and implementation of your game. 
+
+As you review the requirements and test your program, you will proceed through the Applied Design stages. The Applied Design Stages document (CSIntroUnit3Project-AppliedDesign.docx) will lead you through the following stages (you should submit this to your teacher when complete):
+
+**Understanding Context - Defining - Ideating - Prototyping - Testing – Sharing**
+
 
 ## Grading Scheme/Rubric
 
