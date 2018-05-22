@@ -2,6 +2,20 @@
 
 In this lab, you will use everything you've learned about loops and conditionals to construct a simple model for gravity.
 
+<table>
+
+<tr> 
+<td>
+  
+<strong>Content - Requirements of a problem statement</strong></br><br>
+In this task there are specific requirements that need to be met in order for you to obtain full marks and complete the work. Pay close attention to these requirements.<br><br>
+It might be a good idea to print this page so that you can check off each of the requirements as they are met. This will ensure that you start organized and the you complete all requirements described in the problem.
+</td>
+</tr>
+</table>
+
+
+
 ## Before You Start
 
 Go to the starter project at [https://aka.ms/intro-lab2-6](https://aka.ms/intro-lab2-6). Log into SNAP and save your own copy of the project by choosing “Save as” from the file menu. Be sure to click the “Share” button in the Save dialog box. Highlight the URL in the address bar and copy it.
