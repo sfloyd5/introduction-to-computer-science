@@ -31,14 +31,14 @@ Your project should involve a projectile (a ball, a bird, a boomerang, a charact
 You can recreate the pong game if you wish (perhaps changing some sprites or rules), or you can create some type of game that uses similar rules and logic, but with different or additional features.
 
 If you chose to create something different, just ensure that your program includes the following requirements:
--Player can control an object (a paddle, a racket, another character, etc) with keys 
--The projectile begins in a certain location at the start of the game and after each “point”
--The projectile has consistent action in how it rebounds off of edges of screen
--he projectile’s speed is altered at some point in the game
--Points are scored in an effective and logical manner
--Game has an ending based on specific rules of reaching a given score
--Winning and losing players are indicated at the end of the game
--Players can begin a new game
+1. Player can control an object (a paddle, a racket, another character, etc) with keys 
+2. The projectile begins in a certain location at the start of the game and after each “point”
+3. The projectile has consistent action in how it rebounds off of edges of screen
+4. he projectile’s speed is altered at some point in the game
+5. Points are scored in an effective and logical manner
+6. Game has an ending based on specific rules of reaching a given score
+7. Winning and losing players are indicated at the end of the game
+8. Players can begin a new game
 
 Before you begin your project, you will select an end-user for your game (friend, classmate, teacher, relative, etc) and you will interview this end-user in order to learn about their interests. You will then use their interests to shape the design and implementation of your game. This end-user will later test your program and provide feedback before you complete your final version.
 
