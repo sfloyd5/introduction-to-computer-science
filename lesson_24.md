@@ -67,8 +67,8 @@ In order to help you in the development process, you will be provided with a pla
 <td>
 Emphasize with students...<br><br>
 <strong>Big Ideas - Tools and technologies can be adapted for specific purposes</strong><br><br>
-Now that you have created a basic number guessing game, it is time to create a new one with more advanced features. You can sort of consider this upgraded version as Guessing Game 2.0.<br><br>
-As you develop the upgraded game, don’t just start with a blank program. Be sure to adapt your code from the first guessing game and alter it to include upgrades.<br><br>
+In this activity you have created a basic number guessing game, then you created a new one with more advanced features. You can sort of consider this upgraded version as Guessing Game 2.0.<br><br>
+As you developed the upgraded game, you didn't just start with a blank program. Instead, you adapted your code from the first guessing game and altered it to include upgrades.<br><br>
 This is similar to how large companies provide upgrades to their software. They add features to preexisting versions. Occasionally they will start entirely from scratch, when a very important, new version of their software is require. But this is rare and they usually include quite a bit of code that was a part of the original version.
 </td>
 </tr>
