@@ -23,6 +23,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
+<table>
+<tr>
+<td>
+Emphasize with students...<br><br>
+<strong>Big Ideas - Products can be designed for life cycle</strong><br><br>
+This lab provides you with the opportunity to create your own custom blocks to help with searching through lists. Being able to design your own custom blocks like this is an important skill when it comes to how products can be designed. Many products, and we’ll include software in this category, are altered, reused and repurposed. Custom blocks allow the programmer to alter, reuse and repurpose code efficiently and effectively.<br><br>
+With custom blocks the program is designed in “chunks. If problems arise with the program, the debugger only needs to analyze specific "chunks". In much the same way, if improvements need to be made, the programmer can focus on specific “chunks” rather than the program in its entirety.
+</td>
+</tr>
+</table> 
+
 -   Lecture
     -   Ask students to consider how to determine if a particular person is in the room or not
         -   At first, you will likely get answers like "call out the person's name" or "look around."  Press the students to come up with a method that will always work, including when the person is not present.  If necessary, ask them to pretend they are a computer.
