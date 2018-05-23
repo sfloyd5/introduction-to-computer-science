@@ -23,6 +23,26 @@ Students will be able to...
 | 15 minutes | Debrief and wrap-up |
 
 ## Instructor's Notes
+<table>
+<tr>
+<td>
+Emphasize with students...<br><br>
+<strong>Big Ideas<br>
+Products can be designed for life cycle<br>
+Personal design interests require the evaluation and refinement of skills<br>
+Tools and technologies can be adapted for specific purposes</strong><br><br>
+In this lab you will get a chance to reuse and repurpose previously created code. You will also get a chance to evaluate and refine your skills and to see how previous code can be adapted for specific purposes. As you complete this lab, think about these Big Ideas and how they’ve been a part of all of the labs and activities in the course.<br><br>
+Have you ever completed a program and thought the following?
+<ul>
+<li>I wish I had more time, I could remake this into...</li>
+<li>I could use this part of my program to start a program that...</li>
+<li>If I altered this a bit I could make a certain game that...</li>
+<li>If I could learn how to ... then I could probably create a program that...</li>
+</ul>
+These ideas are consistent with the Big Ideas in the course. The important thing to remember is that in designing and creating computer programs, you can always see how ideas and code can be reused, repurposed and improved upon.
+</td>
+</tr>
+</table> 
 
 1.   Introductory discussion
     -   Review the lab from yesterday again, focusing on the identical nature of the clones
