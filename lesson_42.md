@@ -24,6 +24,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
+<table>
+<tr>
+<td>
+Emphasize with students...<br><br>
+<strong>Content - Programming language constructs to support input/output, logic, decision structure, and loops</strong><br><br>
+This program involves quite a bit of organization and computer programming knowledge. You are probably combining user input, variables, random numbers, decision structures, loops and screen output.<br><br>
+These programming language constructs include the knowledge and skills needed to get programs to run. It’s amazing how they can be used to create such different programs. This program generates sentences, but using the same constructs you could create mathematics software, or video games, or scheduling software. When it comes to applying these constructs to create cool programs, the possibilities are endless!
+</td>
+</tr>
+</table> 
+
 -   Lecture
     -   Review the concept of a list from the previous lesson
         -   Ask students to brainstorm examples of when lists could be useful
