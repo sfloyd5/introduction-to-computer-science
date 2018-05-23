@@ -45,6 +45,19 @@ Students will be able to...
         -   Point out differences and discuss advantages and disadvantages to different approaches.
         -   Emphasize that custom blocks do not have to be long and complicated to be useful.
 
+
+<table>
+<tr>
+<td>
+Emphasize with students...<br><br>
+<strong>Content - Pre-built libraries and their documentation</strong><br><br>
+In some programming language there are a number of tasks that already have custom code created for them. In Java for example, there are subroutines called min and max and indexOf that determine the minimum of two numbers, the maximum of two numbers and whether or not a word contains a specific letter.<br><br>
+These subroutines come in packages called libraries. The programmer using these libraries doesn’t have to know the code that exists within each subroutine. Instead the programmer just needs to know how to use the subroutine (what information needs to be sent to the subroutine and what information will be returned). Libraries usually have documentation that explain how to use the different subroutines.
+</td>
+</tr>
+</table> 
+
+
 ## Accommodations/Differentiation
 
 -   Struggling students should focus on just the first 2 or 3 parts of the lab.  Even if they cannot move on to the more difficult problems, getting used to defining custom reporters is helpful and important.
