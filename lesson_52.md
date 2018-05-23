@@ -31,7 +31,7 @@ Students will be able to...
 <td>
 Emphasize with students...<br><br>
 <strong>Big Ideas - Personal design interests require thee valuation and refinement of skills</strong><br><br>
-As you complete this lab you are probably starting to think of how the random movement of sprites can be incorporated into some type of video game. Perhaps you have an idea of a sports game, or a ball avoidance game, or a Martian invasion tape of game. You have developed a lot of skills that will help you complete these types of game, but it’s important for you to also consider what skills are missing. Are there other components of a video game that you perhaps don’t understand yet? What can you do to learn more about these components? Are there online tutorials, printed materials, experts in your area?<br><br>
+As you complete this lesson you are probably starting to think of how the random movement of sprites can be incorporated into some type of video game. Perhaps you have an idea of a sports game, or a ball avoidance game, or a Martian invasion tape of game. You have developed a lot of skills that will help you complete these types of game, but it’s important for you to also consider what skills are missing. Are there other components of a video game that you perhaps don’t understand yet? What can you do to learn more about these components? Are there online tutorials, printed materials, experts in your area?<br><br>
 Evaluating your own skills and refining them is an important aspect of computer programming. There are always new technologies to learn and new concept to apply. A computer programmer is always learning something new, and you should be too!
 </td>
 </tr>
