@@ -100,5 +100,5 @@ As you review the requirements and test your program, you will proceed through t
 |Testing components are complete and thorough                                                                      | 1 point    |
 |Sharing components are complete and thorough                                                                      | 1 point    |
 |Total                                                                                                             | 6 points   |
-| _**Total **_                                                                                                           | _**46 points**_  |
+| **Total**                                                                                                          | **46 points**  |
 
