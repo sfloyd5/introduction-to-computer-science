@@ -9,7 +9,7 @@ Storytelling is a great way to convey culture.  Some examples of storytelling ar
 
 ## Details
 
-###Behavior
+### Behavior
 You will select and interview a friend, classmate, teacher or relative (who will serve as your end-user) and then you will create an animated story for this individual. It is up to you to decide on the story plot, themes and characters. However, these things should reflect the responses from interviewing your end-user.
 
 As you interview your end-user, create the animated story using SNAP, and then test and share the program, you will proceed through the Applied Design stages. The Applied Design Stages document (CSIntroUnit1Project-AppliedDesign.docx) will lead you through the following stages (you should submit this to your teacher when complete):
@@ -28,7 +28,7 @@ As you interview your end-user, create the animated story using SNAP, and then t
     <br />
     If you choose a particularly long story, you may not need to animate the whole thing.
 
-###Implementation Details
+### Implementation Details
 As mentioned above, your animation must display the text and animate each line. Action must be performed by sprites and must consist of more than simply changing costumes. You must include the following components in your animation:
 
 -   At least two sprites that act in some way to contribute to the depiction of the story
