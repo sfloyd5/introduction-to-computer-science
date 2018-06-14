@@ -2,7 +2,7 @@
 In this lab, you will explore SNAP and create a simple "self-portrait" program to introduce yourself to your instructors and classmates.
 
 ---
-#### Emphazise with students...
+#### Emphasize with students...
 
 #### Content - Programming language constructs to support input/output, logic, decision structure, and loops
 
