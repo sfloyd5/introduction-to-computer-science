@@ -3,6 +3,8 @@
 
 In this lab, you will explore the functionality of some common blocks and where they are located in the palette.
 
+---
+
 #### Content - Programming language constructs to support input/output, logic, decision structure, and loops
 
 The SNAP programming language provides you with a wide variety of programming “blocks” that can be assembled together to create some very cool programs.
