@@ -80,6 +80,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
             -   Ensure that each student is able to turn in their work before the class period ends.
 
 ---
+
 #### Emphasize with students...
 
 #### Content - Strategies to predict effects of code modification
@@ -87,6 +88,7 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
 You should get used to using the reporters and watchers. These reporters and watchers can act as tools to aid in the development process. They allow you to see the values of different components of the program, which is very valuable when it comes to searching for and fixing errors in your programs.
 
 Searching for and fixing errors is called debugging. You will develop some great debugging skills as this course progresses and you learn about more tools, like reporters and watchers, that can help you in this area.
+
 ---
     
     
@@ -116,7 +118,14 @@ Searching for and fixing errors is called debugging. You will develop some great
 
 #### Big Ideas - Tools and technologies can be adapted for specific purposes
 
-Avariety of tools and programming components have been presented to you so far. What is so interesting about computer programming and technology is that these tools and components can be assembled together to create a wide variety of things. For example, as you were learning about these tools, did you ever consider making a kaleidoscope program? That is exactly what you will do in the activity below.As you continue in the course, think about how the tools and programming components that you learn about can be adapted to create a wide variety of programs and to serve a wide variety of purposes.
+A variety of tools and programming components have been presented to you so far.
+
+What is so interesting about computer programming and technology is that these tools and components can be assembled together to create a wide variety of things.
+
+For example, as you were learning about these tools, did you ever consider making a kaleidoscope program? That is exactly what you will do in the activity below.
+
+As you continue in the course, think about how the tools and programming components that you learn about can be adapted to create a wide variety of programs and to serve a wide variety of purposes.
+
 ---
 
 
