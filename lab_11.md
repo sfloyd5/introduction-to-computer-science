@@ -122,8 +122,6 @@ The ![x position](xposition.png) and ![y position](yposition.png) the  will tell
 
 ---
 
-### Emphasize with students...
-
 #### Content - Strategies to predict effects of code modification</strong></br><br>
 
 You should get used to using the reporters and watchers. These reporters and watchers can act as tools to aid in the development process. They allow you to see the values of different components of the program, which is very valuable when it comes to searching for and fixing errors in your programs.
@@ -271,8 +269,6 @@ Explore this drawing program for a little bit (<https://aka.ms/snapkaleidodraw>)
 As you can see, this drawing program features more **Control** blocks, in addition to the `forever` block first introduced in the _Follow the Mouse activity_. These _hat_-shaped block, which can be used only at the beginning of a script, indicate when a specific script should be run. 
 
 ---
-
-### Emphasize with students...
 
 #### Big Ideas -Tools and technologies can be adapted for specific purposes
 
