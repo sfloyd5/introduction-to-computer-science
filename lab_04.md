@@ -2,7 +2,9 @@
 In this lab, you will explore SNAP and create a simple "self-portrait" program to introduce yourself to your instructors and classmates.
 
 ---
-#### Emphasize with students: Content - Programming language constructs to support input/output, logic, decision structure, and loops
+#### Emphasize with students...
+
+#### Content - Programming language constructs to support input/output, logic, decision structure, and loops
 
 The SNAP programming language provides you with a wide variety of programming “blocks” that can be assembled together to create some very cool programs.
 
