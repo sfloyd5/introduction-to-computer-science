@@ -29,6 +29,21 @@ Students will be able to...
         -   Put particular emphasis on Motion and Drawing, as those will be used for this assignment
     -   Remind students about the iterative process of programming
         -   Students may get frustrated throughout this activity; remind them that requiring multiple attempts to find the right solution is normal.
+        
+---
+
+#### Emphasize with students...
+
+#### Content - Ways to transform requirements into algorithms
+
+An algorithm is a set of precise instructions that solve a problem or perform a given task. When you wrote a SNAP program to draw a square, you essentially developed an algorithm to create a square. Your algorithm probably involved moving a certain amount of spaces in a straight line, then turning 90 degrees.
+
+In the tasks below, you will be asked to create programs, and therefore develop algorithms, for other shapes. As you do this, think carefully about how the requirements of the shape influence the algorithm you create.
+
+For example, what characteristics of a pentagon influence the algorithm. The number of sides? The number of vertices? How are these characteristics apparent in your algorithm?
+
+---        
+        
 2.  Activity
     -   Students should complete the ["Triangles, Squares, and Stars, Oh My!"](lab_13.md) activity individually.
         -   Point out that the shapes in part 2.1 are not necessarily listed from easiest to hardest, and that the scripts need not be written in the given order.
