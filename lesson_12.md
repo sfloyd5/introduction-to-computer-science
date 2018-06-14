@@ -26,26 +26,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
-<table>
-    <tr>
-        <td>
-            Emphasize with students... <br><br>
-            <strong>Content - Programming language constructs to support input/output, logic, decision structure, and loops</strong><br><br>
-The SNAP programming language provides you with a wide variety of programming “blocks” that can be assembled together to create some very cool programs.<br><br>
-These blocks allow the computer programmer (you!) to perform some important programming tasks such as:
-<ul>
-    <li>Receive input from a user</li>
-<li>Output information to a user</li>
-<li>Perform math calculations or compare things</li>
-<li>Make decisions based on data or input from the user</li>
-<li>Loop your programming code so that sections can be repeated a given number of times.</li>
-            </ul>
+#### Emphasize with students...
+
+#### Content - Programming language constructs to support input/output, logic, decision structure, and loops
+
+The SNAP programming language provides you with a wide variety of programming “blocks” that can be assembled together to create some very cool programs.
+
+These blocks allow the computer programmer (you!) to perform some important programming tasks such as receiving input from the user, outputting information to a user, performing math calculations or comparing things, making decisions based on data or input from the user and looping programming code so that sections can be repeated a given number of times.
 
 In SNAP these blocks are arranged in the Motion, Looks, Sound, Pen, Control, Sensing, Operators and Variables.
 
-</td>
-</tr>
-</table>
+---
     
   
 
