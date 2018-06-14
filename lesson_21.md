@@ -26,19 +26,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
-<table>
-    <tr>
-        <td>
-            Emphasize with students... <br><br>
-            <strong>Content - Ways to modify existing code to meet a particular purpose</strong><br><br>
+---
 
-Computer programmers rarely begin a large project with a blank screen in front of them. Often they will reuse blocks of code from previous projects, or they will alter existing code so that it serves a new function. <br><br>
+#### Emphasize with students...
+
+#### Content - Ways to modify existing code to meet a particular purpose
+
+Computer programmers rarely begin a large project with a blank screen in front of them. Often they will reuse blocks of code from previous projects, or they will alter existing code so that it serves a new function.
+
 In this lab you are going to alter previously written code and you will add to it. As you do so, consider how you can reuse other code or programs that you have written in the course.
 
-
-</td>
-</tr>
-</table>
+---
 
 1. Lecture
 
@@ -74,18 +72,17 @@ In this lab you are going to alter previously written code and you will add to i
     -   Discuss one or two students solutions to part 3.1
         -   Point out how unwieldy the code for these two shapes would be without loops
 
-<table>
-    <tr>
-        <td>
-            Emphasize with students... <br><br>
-            <strong>Big Ideas - Tools and technologies can be adapted for specific purposes.</strong><br><br>
+--- 
 
-As you progress through the course and start to create larger and larger programs, think carefully about the components of these programs and how they can be adapted to serve other purposes. For example, code that can draw squares, rectangles, triangles and circles can be combined to draw a house, or an emoji, or a scene from a movie or book.<br><br>
+#### Emphasize with students...
+
+#### Big Ideas - Tools and technologies can be adapted for specific purposes.
+
+As you progress through the course and start to create larger and larger programs, think carefully about the components of these programs and how they can be adapted to serve other purposes. For example, code that can draw squares, rectangles, triangles and circles can be combined to draw a house, or an emoji, or a scene from a movie or book.
+
 As you learn more complex commands, think about your daily life and your community around you. How can some of the programming commands be used to solve problems or to improve life?
-</td>
-</tr>
-</table>
-    
+
+---
    
 
 ## BJC Lecture Suggestions
