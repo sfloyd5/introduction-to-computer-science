@@ -79,18 +79,15 @@ Zoom Blocks are a useful tool to increase the readability of code in Snap. To ac
         -   Demonstrate the turn-in procedure you will use for student work throughout the semester, and have students follow along to turn in their work from the lab.
             -   Ensure that each student is able to turn in their work before the class period ends.
 
+---
+#### Emphasize with students...
 
-<table>
-    <tr>
-        <td>
-            Emphasize with students... <br><br>
-            <strong>Content - Strategies to predict effects of code modification</strong><br><br>
-You should get used to using the reporters and watchers. These reporters and watchers can act as tools to aid in the development process. They allow you to see the values of different components of the program, which is very valuable when it comes to searching for and fixing errors in your programs. <br><br>
+#### Content - Strategies to predict effects of code modification
+
+You should get used to using the reporters and watchers. These reporters and watchers can act as tools to aid in the development process. They allow you to see the values of different components of the program, which is very valuable when it comes to searching for and fixing errors in your programs.
+
 Searching for and fixing errors is called debugging. You will develop some great debugging skills as this course progresses and you learn about more tools, like reporters and watchers, that can help you in this area.
-        </td>
-    </tr>
-    </table>
-    
+---
     
     
 
@@ -114,18 +111,13 @@ Searching for and fixing errors is called debugging. You will develop some great
         -   If time allows, ask one or two students to demonstrate their programs and describe their code
         -   Remind students of the turn-in procedures discussed yesterday and ensure all students are able to turn in their work
 
-<table>
-    <tr>
-        <td>
-            Emphasize with students... <br><br>
-            <strong>Big Ideas - Tools and technologies can be adapted for specific purposes</strong><br><br>
-A variety of tools and programming components have been presented to you so far. What is so interesting about computer programming and technology is that these tools and components can be assembled together to create a wide variety of things.<br><br>
-For example, as you were learning about these tools, did you ever consider making a kaleidoscope program? That is exactly what you will do in the activity below.<br><br>
-As you continue in the course, think about how the tools and programming components that you learn about can be adapted to create a wide variety of programs and to serve a wide variety of purposes.
-</td>
-</tr>
-</table>
-  
+---
+#### Emphasize with students...
+
+#### Big Ideas - Tools and technologies can be adapted for specific purposes
+
+Avariety of tools and programming components have been presented to you so far. What is so interesting about computer programming and technology is that these tools and components can be assembled together to create a wide variety of things. For example, as you were learning about these tools, did you ever consider making a kaleidoscope program? That is exactly what you will do in the activity below.As you continue in the course, think about how the tools and programming components that you learn about can be adapted to create a wide variety of programs and to serve a wide variety of purposes.
+---
 
 
  ## BJC Lecture Suggestions
