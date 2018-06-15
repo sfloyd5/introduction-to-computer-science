@@ -3,6 +3,16 @@
 
 In this lab, you will write custom reporter blocks to perform a number of useful calculations and computations.
 
+---
+
+#### Content - Pre-built libraries and their documentation
+
+In some programming language there are a number of tasks that already have custom code created for them. In Java for example, there are subroutines called min and max and indexOf that determine the minimum of two numbers, the maximum of two numbers and whether or not a word contains a specific letter.
+
+These subroutines come in packages called libraries. The programmer using these libraries doesn’t have to know the code that exists within each subroutine. Instead the programmer just needs to know how to use the subroutine (what information needs to be sent to the subroutine and what information will be returned). Libraries usually have documentation that explain how to use the different subroutines.
+
+---
+
 ## 1 - Simple Computations
 
 1.  Write a custom SNAP reporter block called "min" that determines which of two numbers is smaller and reports that value.  If the two numbers are equal, report either one.
@@ -30,15 +40,4 @@ In this lab, you will write custom reporter blocks to perform a number of useful
 | 2.1 distance to                 | 0.5 points     |
 | 2.2 contains letter             | 0.5 points     |
 | **PROJECT TOTAL**           | **2.5 points** |
-
-<table>
-<tr> 
-<td>  
-<strong>Content - Pre-built libraries and their documentation</strong></br><br>
-In some programming language there are a number of tasks that already have custom code created for them. In Java for example, there are subroutines called min and max and indexOf that determine the minimum of two numbers, the maximum of two numbers and whether or not a word contains a specific letter.</br><br>
-These subroutines come in packages called libraries. The programmer using these libraries doesn’t have to know the code that exists within each subroutine. Instead the programmer just needs to know how to use the subroutine (what information needs to be sent to the subroutine and what information will be returned). Libraries usually have documentation that explain how to use the different subroutines.
-</td>
-</tr>
-</table>
-
 
