@@ -23,16 +23,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Big Ideas - Products can be designed for life cycle</strong><br><br>
-This lesson provides you with the opportunity to create your own custom blocks to help with searching through lists. Being able to design your own custom blocks like this is an important skill when it comes to how products can be designed. Many products, and we’ll include software in this category, are altered, reused and repurposed. Custom blocks allow the programmer to alter, reuse and repurpose code efficiently and effectively.<br><br>
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Products can be designed for life cycle
+    
+This lesson provides you with the opportunity to create your own custom blocks to help with searching through lists. Being able to design your own custom blocks like this is an important skill when it comes to how products can be designed. Many products, and we’ll include software in this category, are altered, reused and repurposed. Custom blocks allow the programmer to alter, reuse and repurpose code efficiently and effectively.
+
 With custom blocks the program is designed in "chunks". If problems arise with the program, the debugger only needs to analyze specific "chunks". In much the same way, if improvements need to be made, the programmer can focus on specific "chunks" rather than the program in its entirety.
-</td>
-</tr>
-</table> 
+
+---
 
 -   Lecture
     -   Ask students to consider how to determine if a particular person is in the room or not
