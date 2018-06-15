@@ -40,8 +40,6 @@ Quadrilaterals come in many different varieties.  Add code to your program so th
 
 ---
 
-#### Emphasize with students...
-
 #### Curricular Competencies – Applied Design - Defining
 
 Before you begin creating larger projects it’s important that you take the time to design and plan all components. For this task, you should clearly define the problem you are trying to solve or the task you are trying to accomplish.
