@@ -26,29 +26,30 @@ Students will be able to...
 
 ## Instructor's Notes
 
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Big Ideas - Products can be designed for life cycle</strong><br><br>
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Products can be designed for life cycle
+
 There are many advantages to creating custom blocks in SNAP, but one of them is that they will allow you to reuse code. <br><br>
-Imagine completing a program that uses a custom block to draw a smiley face. Anytime you require a smiley face in the program you can simply call the block of code. Later, you might work on a new project that requires a smiley face. If this is the case, you could easily reuse the block from your previous program.<br><br>
+Imagine completing a program that uses a custom block to draw a smiley face. Anytime you require a smiley face in the program you can simply call the block of code. Later, you might work on a new project that requires a smiley face. If this is the case, you could easily reuse the block from your previous program.
+
 This ability to easily reuse code, whether it be within one program, or within several programs, helps us understand the life cycle of products. It costs money to create and update programs. Anytime we can save money by speeding up the coding process means we can create a better product. It also means that as we create projects, we think further down the line about how this project might be maintained or altered later on. By using custom blocks of code, the maintenance and updates can be made easier. 
-</td>
-</tr>
-</table> 
 
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Curricular Competencies – Applied Design - Understanding Context</strong><br><br>
-As you allow for user input into the program, think carefully about the user and about they will interact with your program. What is the best way to prompt them for information? What is the best way for them to enter information? What is the best way to acknowledge their input, or to indicate they have inputted invalid data? <br><br>These questions need to be carefully considered as you design software for end users. Sometimes it’s a good idea to interview end users before designing the software. That way you learn about their needs and the way they use software. It might also be a good idea to do some initial testing with end users so that you can see how they interact with the program and they can provide feedback in order to improve the software.
-</td>
-</tr>
-</table> 
+---
 
+---
 
+#### Emphasize with students...
+
+#### Curricular Competencies – Applied Design - Understanding Context
+
+As you allow for user input into the program, think carefully about the user and about they will interact with your program. What is the best way to prompt them for information? What is the best way for them to enter information? What is the best way to acknowledge their input, or to indicate they have inputted invalid data?
+
+These questions need to be carefully considered as you design software for end users. Sometimes it’s a good idea to interview end users before designing the software. That way you learn about their needs and the way they use software. It might also be a good idea to do some initial testing with end users so that you can see how they interact with the program and they can provide feedback in order to improve the software.
+
+---
 
 1.	Lecture and Demonstration
 	-	Review with students the concepts of abstraction, generalization, and detail removal
