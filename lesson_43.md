@@ -25,17 +25,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Content - Structures within existing code</strong><br><br>
-As you’ve done a number of times in this course, you’ll be altering the structures within your existing code in order to create new capabilities for the program. This is an important way to program. Rarely do programmers write code for their entire program and then click run.<br><br>
-Instead they design in small stages, accomplishing smaller subtasks and building upon these structures in order to add complexity. So as you create more programs and as you design your own, begin by creating simpler versions  and then add layers of complexity as you get each stage to run.
-</td>
-</tr>
-</table> 
+---
 
+#### Emphasize with students...
+
+#### Content - Structures within existing code
+
+As you’ve done a number of times in this course, you’ll be altering the structures within your existing code in order to create new capabilities for the program. This is an important way to program. Rarely do programmers write code for their entire program and then click run.
+
+Instead they design in small stages, accomplishing smaller subtasks and building upon these structures in order to add complexity. So as you create more programs and as you design your own, begin by creating simpler versions  and then add layers of complexity as you get each stage to run.
+
+---
 
 1.  Lecture
 
