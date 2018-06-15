@@ -25,11 +25,7 @@ This ability to easily reuse code, whether it be within one program, or within s
 4.  Write a SNAP script (or find one you've already written) to draw a regular octagon.
 
 5.  Look over the four programs from above.  Do you notice sections that are very similar?  What sections might be able to be abstracted into a separate block?
-    <br/>
-    <br/>
-    <br/>
-    <br/>
-    <br/>
+
 
 ## If You've Seen One...
 
