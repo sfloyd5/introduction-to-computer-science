@@ -5,7 +5,7 @@ In this lab, you will use Boolean operators to determine what sort of triangle a
 
 ---
 
-### Big Ideas - Personal design interests require the evaluation and refinement of skills
+#### Big Ideas - Personal design interests require the evaluation and refinement of skills
 
 As you start to create more interesting programs, and as you eventually start to create programs of your own design, you will have to start evaluating and refining your skills. In this lab you are asked to use Boolean operators in your program as a way of adding logic and decision making to your software. Think carefully about whether or not you know enough about Boolean operators and how to implement them in SNAP. If you don’t review the lesson on Boolean operators or ask for help from your teacher or classmate.
 
