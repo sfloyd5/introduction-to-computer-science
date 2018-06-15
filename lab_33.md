@@ -3,6 +3,16 @@
 
 In this lab, you will write some custom blocks that take arguments and are useful for calculations involving dates and calendars.
 
+---
+
+#### Big Ideas - Products can be designed for life cycle
+
+Think carefully about how these custom blocks could be used in other programs, or how they could be used if you had to expand this current program. There are quite a lot of uses for custom blocks that format the days, months and years. A number of software applications might require these types of custom blocks including calendar software, billing and payments software, alarms and notification software as well as recording of events and data software.
+
+In addition, if any updates had to be made to existing programs then it would be much easier to make these updates if code is contained in custom blocks.  
+
+---
+
 ## 1 - Basics
 
 1.  Write a custom SNAP block called "month name" that takes a number between 1 and 12 as an argument and says the name of the corresponding month.
@@ -35,25 +45,6 @@ In this lab, you will write some custom blocks that take arguments and are usefu
 | 2.3 day in year                 | 0.5 points     |
 | 2.4 Bonus: day in week          | 0.5 points     |
 | **PROJECT TOTAL**               | **3.5 points** |
-
-
-<table>
-<tr> 
-<td>  
-<strong>Big Ideas - Products can be designed for life cycle</strong></br><br>
-Think carefully about how these custom blocks could be used in other programs, or how they could be used if you had to expand this current program. There are quite a lot of uses for custom blocks that format the days, months and years. The following software applications might all require these types of custom blocks:
-<ul>
-    <li>calendar software</li>
-<li>billing and payments software</li>
-<li>alarms and notification software</li>
-<li>recording of events and data software</li>
-    </ul>
-In addition, if any updates had to be made to existing programs then it would be much easier to make these updates if code is contained in custom blocks.  
-</td>
-</tr>
-</table>
-
-
 
 
 
