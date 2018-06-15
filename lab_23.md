@@ -38,18 +38,17 @@ Quadrilaterals come in many different varieties.  Add code to your program so th
 
 ![](QuadrilateralSets.PNG)
 
-<table>
-<tr> 
-<td>  
-  <strong>Curricular Competencies – Applied Design - Defining</strong><br><br>
-Before you begin creating larger projects it’s important that you take the time to design and plan all components. For this task, you should clearly define the problem you are trying to solve or the task you are trying to accomplish.<br><br>
+---
+
+#### Emphasize with students...
+
+#### Curricular Competencies – Applied Design - Defining
+
+Before you begin creating larger projects it’s important that you take the time to design and plan all components. For this task, you should clearly define the problem you are trying to solve or the task you are trying to accomplish.
+
 You should also clearly outline the components and the limits of your design (ie. What components (code, sprites, algorithms) do you have at your disposal that will help you? What components are you missing?)
-</td>
-</tr>
-</table>
 
-
-
+---
 
 1.  Fill out a [Planning Worksheet] (https://tealsk12.gitbooks.io/introduction-to-computer-science/content/SNAP%20Program%20Design%20and%20Planning%20Worksheet23.docx) for the above program.  Make sure you consider all aspects of the program carefully.
 
