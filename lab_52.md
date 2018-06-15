@@ -8,15 +8,15 @@ In this lab, you will use cloning to create many identical sprites without havin
 
 3. What would you need to do to add a second bouncing ball (that behaved in the same way) to the program?  What about 10 balls?  100 balls?  What would happen if you wanted to change the speed of all the balls in the program after you had created 100?
 
-<table>
-<tr> 
-<td>  
-<strong>Big Ideas - Personal design interests require thee valuation and refinement of skills</strong></br><br>
-As you complete this lab you are probably starting to think of how the random movement of sprites can be incorporated into some type of video game. Perhaps you have an idea of a sports game, or a ball avoidance game, or a Martian invasion tape of game. You have developed a lot of skills that will help you complete these types of game, but it’s important for you to also consider what skills are missing. Are there other components of a video game that you perhaps don’t understand yet? What can you do to learn more about these components? Are there online tutorials, printed materials, experts in your area?</br><br>
+---
+
+#### Big Ideas - Personal design interests require thee valuation and refinement of skills
+
+As you complete this lab you are probably starting to think of how the random movement of sprites can be incorporated into some type of video game. Perhaps you have an idea of a sports game, or a ball avoidance game, or a Martian invasion tape of game. You have developed a lot of skills that will help you complete these types of game, but it’s important for you to also consider what skills are missing. Are there other components of a video game that you perhaps don’t understand yet? What can you do to learn more about these components? Are there online tutorials, printed materials, experts in your area?
+
 Evaluating your own skills and refining them is an important aspect of computer programming. There are always new technologies to learn and new concept to apply. A computer programmer is always learning something new, and you should be too!
-</td>
-</tr>
-</table>
+
+---
 
 ## Part 2 - Clones!
 1. Modify your program so that, instead of a single sprite restarting each time the spacebar is pressed, a new clone of that sprite is created.  You'll want to use the ![](createACloneOf.png) and ![](whenIStartAsAClone.png) blocks in place of ![](broadcast.png) and ![](whenIReceive.png).
