@@ -84,7 +84,7 @@ You should also clearly outline the components and the limits of your design (ie
             -   When the conditions are not mutually exclusive (as in part 2.2), the choice matters more
 
 ## BJC Lecture Suggestions
-####Good for Classroom Instruction
+#### Good for Classroom Instruction
 * [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
 
  - [Why Study User Interfaces](http://www.youtube.com/watch?v=3VZ7D01T2Yc&t=15m0s)
@@ -95,7 +95,7 @@ You should also clearly outline the components and the limits of your design (ie
 
 
 
-####Background Information for Instructors
+#### Background Information for Instructors
 
 * [BJC Lecture 13: Mislababled as 14) Human-Computer Interaction Bjorn Hartman ](https://www.youtube.com/watch?v=3VZ7D01T2Yc)
  - Bjorn Hartman Background 0:00-3:30
