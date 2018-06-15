@@ -2,19 +2,15 @@
 
 In this lab, you will use everything you've learned about loops and conditionals to construct a simple model for gravity.
 
-<table>
+---
 
-<tr> 
-<td>
-  
-<strong>Content - Requirements of a problem statement</strong></br><br>
-In this task there are specific requirements that need to be met in order for you to obtain full marks and complete the work. Pay close attention to these requirements.<br><br>
+#### Content - Requirements of a problem statement
+
+In this task there are specific requirements that need to be met in order for you to obtain full marks and complete the work. Pay close attention to these requirements.
+
 It might be a good idea to print this page so that you can check off each of the requirements as they are met. This will ensure that you start organized and the you complete all requirements described in the problem.
-</td>
-</tr>
-</table>
 
-
+---
 
 ## Before You Start
 
