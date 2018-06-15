@@ -54,23 +54,17 @@ Students will be able to...
         -   Point out corner cases and cases where typed arguments are particularly helpful.
             -   For example, avoiding try to find out whether "bubblegum" is a leap year
 
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Big Ideas - Products can be designed for life cycle</strong><br><br>
-Think carefully about how these custom blocks could be used in other programs, or how they could be used if you had to expand this current program. There are quite a lot of uses for custom blocks that format the days, months and years. The following software applications might all require these types of custom blocks:
-<ul>
-    <li>calendar software</li>
-<li>billing and payments software</li>
-<li>alarms and notification software</li>
-<li>recording of events and data software</li>
-</ul>
-In addition, if any updates had to be made to existing programs then it would be much easier to make these updates if code is contained in custom blocks.
-</td>
-</tr>
-</table> 
+---
 
+#### Emphasize with students...
+
+#### Big Ideas - Products can be designed for life cycle
+    
+Think carefully about how these custom blocks could be used in other programs, or how they could be used if you had to expand this current program. There are quite a lot of uses for custom blocks that format the days, months and years. A number of software applications might all require these types of custom blocks including calendar software, billing and payments software, alarms and notification software as well as recording of events and data software.
+
+In addition, if any updates had to be made to existing programs then it would be much easier to make these updates if code is contained in custom blocks.
+
+---
 
 ## Accommodations/Differentiation
 
