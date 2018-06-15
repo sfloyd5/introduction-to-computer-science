@@ -23,16 +23,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Content - Requirements of a problem statement</strong><br><br>
-In this task there are specific requirements that need to be met in order for you to obtain full marks and complete the work. Pay close attention to these requirements.<br><br>
+---
+
+#### Emphasize with students...
+
+#### Content - Requirements of a problem statement
+
+In this task there are specific requirements that need to be met in order for you to obtain full marks and complete the work. Pay close attention to these requirements.
+
 It might be a good idea to print this page so that you can check off each of the requirements as they are met. This will ensure that you start organized and the you complete all requirements described in the problem.
-</td>
-</tr>
-</table> 
+
+---
 
 1.  Review and lecture
     1.  Review loops and conditionals
