@@ -24,16 +24,18 @@ Students will be able to...
 | 10 minutes | Debrief and wrap-up                           |
 
 ## Instructor's Notes
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Big Ideas - Personal design interests require the evaluation and refinement of skills</strong><br><br>
-As you start to create more interesting programs, and as you eventually start to create programs of your own design, you will have to start evaluating and refining your skills. In this lab you are asked to use Boolean operators in your program as a way of adding logic and decision making to your software. Think carefully about whether or not you know enough about Boolean operators and how to implement them in SNAP. If you don’t review the lesson on Boolean operators or ask for help from your teacher or classmate.<br><br>
+
+---
+
+#### Emphasize with students...
+
+#### Big Ideas - Personal design interests require the evaluation and refinement of skills
+
+As you start to create more interesting programs, and as you eventually start to create programs of your own design, you will have to start evaluating and refining your skills. In this lab you are asked to use Boolean operators in your program as a way of adding logic and decision making to your software. Think carefully about whether or not you know enough about Boolean operators and how to implement them in SNAP. If you don’t review the lesson on Boolean operators or ask for help from your teacher or classmate.
+
 It's important to always evaluate and refine the skills needed in your projects so that you can create some great stuff!
-</td>
-</tr>
-</table> 
+
+---
 
 1.  Review
     -   Remind students about conditional statements, and ask what the blocks that can go in the holes in if blocks have in common
