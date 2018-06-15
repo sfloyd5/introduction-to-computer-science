@@ -22,17 +22,17 @@ Students will be able to...
 
 ## Instructor's Notes
 
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Content - Tools to aid in the development process</strong><br><br>
-The most important steps in creating computer programs come before you even start to code. The planning and designing stages are important because they ensure that you carefully consider the program you are going to write, and that you carefully consider the skills and components that you have at your disposal, and the ones that you might need.<br><br>
-In order to help you in the development process, you will be provided with a planning worksheet. You have used one of these before in the course. This planning worksheet is a tool that you can use to help make the development process easier. If you fill in all components of the worksheet, then you will be better prepared to start coding.
-</td>
-</tr>
-</table>
+---
 
+#### Emphasize with students...
+
+#### Content - Tools to aid in the development process
+
+The most important steps in creating computer programs come before you even start to code. The planning and designing stages are important because they ensure that you carefully consider the program you are going to write, and that you carefully consider the skills and components that you have at your disposal, and the ones that you might need.
+
+In order to help you in the development process, you will be provided with a planning worksheet. You have used one of these before in the course. This planning worksheet is a tool that you can use to help make the development process easier. If you fill in all components of the worksheet, then you will be better prepared to start coding.
+
+---
 
 
 1.  Lecture
@@ -62,18 +62,19 @@ In order to help you in the development process, you will be provided with a pla
     -   Discuss and demonstrate one or more students' submissions
     -   Ask students for commentary on usage and naming of variables throughout program
 
-<table>
-<tr>
-<td>
-Emphasize with students...<br><br>
-<strong>Big Ideas - Tools and technologies can be adapted for specific purposes</strong><br><br>
-In this activity you have created a basic number guessing game, then you created a new one with more advanced features. You can sort of consider this upgraded version as Guessing Game 2.0.<br><br>
-As you developed the upgraded game, you didn't just start with a blank program. Instead, you adapted your code from the first guessing game and altered it to include upgrades.<br><br>
-This is similar to how large companies provide upgrades to their software. They add features to preexisting versions. Occasionally they will start entirely from scratch, when a very important, new version of their software is require. But this is rare and they usually include quite a bit of code that was a part of the original version.
-</td>
-</tr>
-</table> 
+---
 
+#### Emphasize with students...
+
+#### Big Ideas - Tools and technologies can be adapted for specific purposes
+
+In this activity you have created a basic number guessing game, then you created a new one with more advanced features. You can sort of consider this upgraded version as Guessing Game 2.0.
+
+As you developed the upgraded game, you didn't just start with a blank program. Instead, you adapted your code from the first guessing game and altered it to include upgrades.
+
+This is similar to how large companies provide upgrades to their software. They add features to preexisting versions. Occasionally they will start entirely from scratch, when a very important, new version of their software is require. But this is rare and they usually include quite a bit of code that was a part of the original version.
+
+---
 
 ## Accommodation/Differentiation
 
